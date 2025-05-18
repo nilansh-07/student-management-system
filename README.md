@@ -56,7 +56,7 @@ A robust Java-based command-line application for comprehensive student record ma
 ### Setup Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/nilansh-07/student-management-system.git
    cd student-management-system
    ```
 
@@ -218,5 +218,5 @@ For support, please:
 ---
 
 <div align="center">
-Made with ❤️ by [Nilansh]
+Made with ❤️ by Nilansh
 </div> 
